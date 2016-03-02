@@ -6,4 +6,5 @@
 
 [游戏地址](http://gaoxdon.com/work/lufylegend/laba.html)
 
+[游戏截图](https://github.com/gaoxdon/HTML5-GAME--laba/blob/master/images/IMG_1243.jpg)
 PS:已适应各种屏幕，但优先使用谷歌手机模拟器，或手机试玩
